@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/umb-frontend-web/static/css/main.92e816db.css",
+    "main.js": "/umb-frontend-web/static/js/main.360506cd.js",
+    "index.html": "/umb-frontend-web/index.html",
+    "main.92e816db.css.map": "/umb-frontend-web/static/css/main.92e816db.css.map",
+    "main.360506cd.js.map": "/umb-frontend-web/static/js/main.360506cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92e816db.css",
+    "static/js/main.360506cd.js"
+  ]
+}
